@@ -7,7 +7,7 @@
     "nomnom": "~1.6.2"
   },
   "devDependencies": {
-    "tape": "~4.6.2"
+    "tape": "~4.6.3"
   },
   "bin": {
     "nearleyc": "bin/nearleyc.js"
